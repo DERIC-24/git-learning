@@ -1,2 +1,3 @@
 Day 1: Starting Git
 I don't understand Git yet.
+I made my first commit.
